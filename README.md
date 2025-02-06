@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Afra!
+
+As a results-oriented Android Developer recognized for self-organization and a
+commitment to excellence, I bring 3 years of focused expertise in designing,
+developing, and deploying robust mobile applications using Kotlin and Jetpack
+Compose. Building on a solid foundation of over 7 years in application
+development across diverse technologies, I consistently deliver high-quality,
+user-centric solutions. My strong technical acumen, combined with a proactive
+approach to continuous learning and collaboration, ensures my ability to thrive
+in dynamic, high-performing teams.
 
 
 <!--
