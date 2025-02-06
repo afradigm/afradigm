@@ -9,6 +9,11 @@ user-centric solutions. My strong technical acumen, combined with a proactive
 approach to continuous learning and collaboration, ensures my ability to thrive
 in dynamic, high-performing teams.
 
+# My latest Android app!
+**Discover, Cook, Savor: Recipes Tailored to Your Taste with Cheforia**
+
+[![Google Play Store](https://img.shields.io/badge/Google_Play-Download-blue?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=meal.planner.ai.cheforia.recipes.tasty.food&pcampaignid=web_share)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afradigm&theme=cobalt&show_icons=true)]()
